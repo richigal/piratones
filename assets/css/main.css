@@ -41,6 +41,11 @@ body {
   padding: 0;
 }
 
+.imagenad{
+  text-align: center;
+}
+
+
 .willow{
   transform: translateX(520px);
 }
