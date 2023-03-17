@@ -41,6 +41,10 @@ body {
   padding: 0;
 }
 
+.imagen{
+  transform: translateX(520px);
+}
+
 h1 {
   text-align: center;
 }
